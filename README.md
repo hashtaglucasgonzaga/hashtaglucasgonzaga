@@ -37,9 +37,9 @@ Oracle Cloud Infrastructure 2024 Associate • Oracle Cloud Observability Profes
 
 ## Connect
 
-- 🌐 Portfolio: [hashtaglucasgonzaga.github.io](https://hashtaglucasgonzaga.github.io)
-- 💼 LinkedIn: [linkedin.com/in/hashtaglucasgonzaga](https://linkedin.com/in/hashtaglucasgonzaga)
-- 💻 GitHub: [@hashtaglucasgonzaga](https://github.com/hashtaglucasgonzaga)
+- 🌐 Portfolio: <a href="https://hashtaglucasgonzaga.github.io" target="_blank">hashtaglucasgonzaga.github.io</a>
+- 💼 LinkedIn: <a href="https://linkedin.com/in/hashtaglucasgonzaga" target="_blank">linkedin.com/in/hashtaglucasgonzaga</a>
+- 💻 GitHub: <a href="https://github.com/hashtaglucasgonzaga" target="_blank">@hashtaglucasgonzaga</a>
 
 <br>
 
