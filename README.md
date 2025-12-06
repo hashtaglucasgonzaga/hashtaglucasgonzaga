@@ -31,8 +31,9 @@ I'm Lucas Gonzaga, based in Dublin, Ireland. Originally from Paranaguá, Brazil,
 ![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
 ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white)
 ![Alertmanager](https://img.shields.io/badge/Alertmanager-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-
-PromQL • Node Exporter • Blackbox Exporter
+![PromQL](https://img.shields.io/badge/PromQL-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Node Exporter](https://img.shields.io/badge/Node_Exporter-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Blackbox Exporter](https://img.shields.io/badge/Blackbox_Exporter-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 
 **Infrastructure & Cloud**
 
@@ -41,8 +42,9 @@ PromQL • Node Exporter • Blackbox Exporter
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![WSL2](https://img.shields.io/badge/WSL2-0078D6?style=for-the-badge&logo=windows-terminal&logoColor=white)
 
-Windows Server • Troubleshooting & System Administration
 
 **Certifications**  
 Oracle Cloud Infrastructure 2024 Associate • Oracle Cloud Observability Professional
