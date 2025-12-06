@@ -7,19 +7,18 @@
 
 ## About Me
 
-I'm transitioning from IT infrastructure to **Site Reliability Engineering**, with a focus on observability and monitoring. My background includes nearly a decade managing Windows Server environments in Brazil, and I'm now building expertise in modern observability practices.
-
-I take a methodical approach to learning — preferring to master concepts thoroughly rather than rushing through topics.
+I'm Lucas Gonzaga, based in Dublin, Ireland. Originally from Paranaguá, Brazil, I bring 10 years of IT infrastructure experience and a deep passion for everything IT. Currently focused on Site Reliability Engineering, I'm refining observability principles to increase system reliability and strengthen incident response posture. I build monitoring solutions with Prometheus and Grafana to ensure systems stay healthy, performant, and resilient.
 
 <br>
 
 ## What I'm Working On
 
-- Building monitoring solutions with **Prometheus** and **Grafana**
-- Implementing external monitoring with **Blackbox Exporter**
+- Building monitoring solutions with **Prometheus**, **Grafana**, **Node Exporter**, and **Blackbox Exporter**
+- Implementing external monitoring and health checks for applications
 - Mastering **PromQL** for infrastructure (USE) and application (RED) metrics
+- Studying **Datadog** and **OpenTelemetry** for enterprise observability
+- Deepening **Linux** fundamentals, troubleshooting, and system administration skills
 - Integrating AI with observability workflows
-- Studying **OpenTelemetry** and distributed tracing
 
 <br>
 
@@ -29,26 +28,17 @@ I take a methodical approach to learning — preferring to master concepts thoro
 Prometheus • Grafana • PromQL • Alertmanager • Node Exporter • Blackbox Exporter
 
 **Infrastructure & Cloud**  
-Oracle Cloud Infrastructure • Linux • Windows Server • Docker
+Oracle Cloud Infrastructure • Linux (Troubleshooting & System Administration) • Windows Server • Docker • Git/GitHub • Python
 
 **Certifications**  
 Oracle Cloud Infrastructure 2024 Associate • Oracle Cloud Observability Professional
 
 <br>
 
-## Career Goals
-
-Pursuing SRE opportunities at companies with strong Dublin presence: **Google**, **Meta**, **Amazon**, **Microsoft**, **Stripe**
-
-Currently progressing from infrastructure monitoring to application-level observability.
-
-<br>
-
 ## Connect
 
 - 🌐 Portfolio: [hashtaglucasgonzaga.github.io](https://hashtaglucasgonzaga.github.io)
-- 💼 LinkedIn: [Your LinkedIn]
-- 📧 Email: [Your Email]
+- 💼 LinkedIn: [linkedin.com/in/hashtaglucasgonzaga](https://linkedin.com/in/hashtaglucasgonzaga)
 - 💻 GitHub: [@hashtaglucasgonzaga](https://github.com/hashtaglucasgonzaga)
 
 <br>
