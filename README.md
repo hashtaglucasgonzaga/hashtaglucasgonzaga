@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Lucas Gonzaga Jr&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Lucas&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff" />
 </div>
 
 <div align="center">
